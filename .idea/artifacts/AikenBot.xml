@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AikenBot">
+    <output-path>$USER_HOME$/AikenBot/</output-path>
+    <root id="archive" name="AikenBot.jar">
+      <element id="module-output" name="AikenBot" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
